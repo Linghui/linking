@@ -1,4 +1,4 @@
 linking
 =======
 
-html5 连连看
+html5 连连看 Chrome Web App
