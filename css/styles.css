@@ -1,0 +1,103 @@
+
+canvas {
+	border: 4px #333333 solid;
+    background-color: #DEF;
+}
+
+.button_control{
+	position: absolute;
+	left: 1050px;
+	width : 130px;
+	text-align:center;
+}
+
+
+.restartB{
+	position: absolute;
+	left: 20px;
+	top : 20px;
+	width : 50px;
+	text-align:center;
+	font-size: 16px;
+	display: none;
+}
+
+.startB{
+	position: absolute;
+	left: 400px;
+	top : 200px;
+	width : 130px;
+	text-align:center;
+	font-size: 48px;
+}
+
+.suffleB{
+	position: absolute;
+	left: 550px;
+	top : 20px;
+	width : 50px;
+	text-align:center;
+	font-size: 16px;
+	display: none;
+}
+
+.suspendB{
+	position: absolute;
+	left: 900px;
+	top : 20px;
+	width : 50px;
+	text-align:center;
+	font-size: 16px;
+	display: none;
+}
+
+.response{
+	position: absolute;
+	width : 50px;
+	left: 20px;
+	top : 550px;
+	text-align:center;
+	font-size: 16px;
+	display: none;
+}
+
+.bestScore {
+    cursor:pointer;
+	position: absolute;
+	left: 20px;
+	color:red;
+	width : 120px;
+    text-shadow: 2px 2px 3px #100;
+	font-size: 22px;
+	text-align:center;
+}
+
+.globle {
+    cursor:pointer;
+	position: absolute;
+	left: 850px;
+	color:blue;
+	width : 160px;
+    text-shadow: 2px 2px 3px #100;
+	font-size: 22px;
+	text-align:center;
+}
+
+.control{
+	border: 2px #100 solid;
+	width : 784px;
+	height : 90px;
+}
+
+
+.advice_div{
+    margin-top:40px;
+    text-align:center;
+}
+
+.submit{
+    font-size: 14px;
+	text-align:center;
+	width : 80px;
+    
+}
